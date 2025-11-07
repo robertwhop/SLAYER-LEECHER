@@ -1,6 +1,6 @@
 ## Slayer Leecher
 <img src = 'https://img-v2-prod.whop.com/unsafe/rs:fit:128:0/plain/https%3A%2F%2Fassets-2-prod.whop.com%2Fuploads%2Fuser_19065963%2Fimage%2Fbots%2F2025-11-07%2Fe411ec14-4d70-42b5-9815-5274c8ff6631.jpg@avif?w=128&q=75'/>
-## [SLAYER-LEECHER | Whop](https://whop.com/your-product-link) 
+##  [SLAYER-LEECHER | Whop](https://whop.com/your-product-link) 
 
 ## IMPORTANT NOTICE
 
@@ -30,6 +30,7 @@ If you like this software, consider making a donation to the developer. Thank yo
 
 # Credits
 I want to thank all the community for their inputs that shaped SLayer Leecher into what it is now 
+
 
 
 
